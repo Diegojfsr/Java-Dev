@@ -26,11 +26,7 @@ public class Ex15 {
 			NumberFormat namberformat = new DecimalFormat("#,##0");
 
 			//Mensagem de saida
-            
-
             System.out.println( " O Angulo(RADIANOS) informado foi convertido para " + namberformat.format(graus) + " Graus ");
-            //System.out.println( " O grau informado foi convertido para " + radianos);
-
 			
 		} 
 		
